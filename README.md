@@ -1,8 +1,5 @@
 # Laravel Migrations - Laboratório
 
-Este ambiente contém os códigos fonte das migrations solicitadas para as atividades de laboratório.
-Como este é um ambiente virtual sem conexão direta com um banco de dados MySQL configurado, os arquivos PHP foram gerados nas pastas correspondentes a cada projeto solicitado.
-
 ## Estrutura de Pastas
 
 *   **[lab_migrations/database/migrations](lab_migrations/database/migrations)**: Contém as migrations das Atividades 1 a 10.
